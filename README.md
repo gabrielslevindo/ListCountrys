@@ -87,9 +87,12 @@ Suporte offline com cache do Apollo
 Internacionalização (i18n)
 
 📸 Capturas de Tela 
-![Screenshot_20250611_140351](https://github.com/user-attachments/assets/d62597dc-7f82-42cf-9841-012a2d93c833)
-![Screenshot_20250611_140418](https://github.com/user-attachments/assets/1413f41b-337e-47cd-84af-9f5ec1431887)
-![Screenshot_20250611_140524](https://github.com/user-attachments/assets/9187caaa-0171-4688-bb66-f98db4b43aac)
+
+![Screenshot_20250611_140524](https://github.com/user-attachments/assets/6692ef53-460d-442d-a348-9eca7d2c4416)
+![Screenshot_20250611_140418](https://github.com/user-attachments/assets/662a6c12-5837-4f92-8690-61d8ed96567d)
+![Screenshot_20250611_140351](https://github.com/user-attachments/assets/40dba5f1-6555-47de-98c0-7c8b04db6993)
+
+
 <img width="1397" alt="Captura de Tela 2025-06-11 às 14 05 51" src="https://github.com/user-attachments/assets/7dd2663d-2bfa-4006-a8bf-dff2c364ca26" />
 
 🧑‍💻 Autor
