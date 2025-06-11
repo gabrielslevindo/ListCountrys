@@ -5,14 +5,26 @@ Aplicativo Android desenvolvido com Jetpack Compose, Apollo GraphQL, Hilt e Room
 ✨ Funcionalidades
 
 🔍 Pesquisa em tempo real por nome de país
+
+
 📋 Lista de países com nome, bandeira (emoji) e capital
+
+
 📌 Tela de detalhes com:
+
 Capital
+
 Continente
+
 Moeda
+
 Idiomas
+
 Marcar/desmarcar como favorito
+
 ⭐ Armazenamento de favoritos localmente usando Room
+
+
 🧱 Arquitetura
 
 O projeto segue a Clean Architecture com separação clara de responsabilidades:
